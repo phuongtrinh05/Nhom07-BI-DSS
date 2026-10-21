@@ -1,0 +1,1002 @@
+[
+  [
+    {
+      "PurchasedMaterials": 182
+    }
+  ],
+  [
+    {
+      "JoinedRows": 143724,
+      "CoveredMaterials": 58,
+      "MinDate": "2022-06-02T00:00:00",
+      "MaxDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    }
+  ],
+  [
+    {
+      "DuplicateWOComponentGroups": 0
+    }
+  ],
+  [
+    {
+      "BOMUnit": "EA ",
+      "PurchaseUnit": "CAN",
+      "Materials": 4,
+      "JoinedRows": 4
+    },
+    {
+      "BOMUnit": "EA ",
+      "PurchaseUnit": "CS ",
+      "Materials": 6,
+      "JoinedRows": 6
+    },
+    {
+      "BOMUnit": "EA ",
+      "PurchaseUnit": "CTN",
+      "Materials": 5,
+      "JoinedRows": 5
+    },
+    {
+      "BOMUnit": "EA ",
+      "PurchaseUnit": "DZ ",
+      "Materials": 4,
+      "JoinedRows": 4
+    },
+    {
+      "BOMUnit": "EA ",
+      "PurchaseUnit": "EA ",
+      "Materials": 31,
+      "JoinedRows": 31
+    },
+    {
+      "BOMUnit": "OZ ",
+      "PurchaseUnit": "GAL",
+      "Materials": 5,
+      "JoinedRows": 5
+    },
+    {
+      "BOMUnit": "IN ",
+      "PurchaseUnit": "PAK",
+      "Materials": 3,
+      "JoinedRows": 3
+    }
+  ],
+  [
+    {
+      "UnitCompatibleMaterials": 31
+    }
+  ],
+  [
+    {
+      "Year": 2022,
+      "Month": 6,
+      "WorkOrders": 1171,
+      "ActiveDays": 29
+    },
+    {
+      "Year": 2022,
+      "Month": 7,
+      "WorkOrders": 1263,
+      "ActiveDays": 30
+    },
+    {
+      "Year": 2022,
+      "Month": 8,
+      "WorkOrders": 1186,
+      "ActiveDays": 30
+    },
+    {
+      "Year": 2022,
+      "Month": 9,
+      "WorkOrders": 1237,
+      "ActiveDays": 29
+    },
+    {
+      "Year": 2022,
+      "Month": 10,
+      "WorkOrders": 1335,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2022,
+      "Month": 11,
+      "WorkOrders": 1395,
+      "ActiveDays": 30
+    },
+    {
+      "Year": 2022,
+      "Month": 12,
+      "WorkOrders": 1362,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2023,
+      "Month": 1,
+      "WorkOrders": 1403,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2023,
+      "Month": 2,
+      "WorkOrders": 1203,
+      "ActiveDays": 28
+    },
+    {
+      "Year": 2023,
+      "Month": 3,
+      "WorkOrders": 1413,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2023,
+      "Month": 4,
+      "WorkOrders": 1422,
+      "ActiveDays": 30
+    },
+    {
+      "Year": 2023,
+      "Month": 5,
+      "WorkOrders": 1500,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2023,
+      "Month": 6,
+      "WorkOrders": 1599,
+      "ActiveDays": 30
+    },
+    {
+      "Year": 2023,
+      "Month": 7,
+      "WorkOrders": 1730,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2023,
+      "Month": 8,
+      "WorkOrders": 1638,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2023,
+      "Month": 9,
+      "WorkOrders": 1608,
+      "ActiveDays": 30
+    },
+    {
+      "Year": 2023,
+      "Month": 10,
+      "WorkOrders": 1630,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2023,
+      "Month": 11,
+      "WorkOrders": 1831,
+      "ActiveDays": 30
+    },
+    {
+      "Year": 2023,
+      "Month": 12,
+      "WorkOrders": 1671,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2024,
+      "Month": 1,
+      "WorkOrders": 1835,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2024,
+      "Month": 2,
+      "WorkOrders": 1525,
+      "ActiveDays": 29
+    },
+    {
+      "Year": 2024,
+      "Month": 3,
+      "WorkOrders": 1797,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2024,
+      "Month": 4,
+      "WorkOrders": 1846,
+      "ActiveDays": 30
+    },
+    {
+      "Year": 2024,
+      "Month": 5,
+      "WorkOrders": 1926,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2024,
+      "Month": 6,
+      "WorkOrders": 2583,
+      "ActiveDays": 30
+    },
+    {
+      "Year": 2024,
+      "Month": 7,
+      "WorkOrders": 2659,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2024,
+      "Month": 8,
+      "WorkOrders": 2816,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2024,
+      "Month": 9,
+      "WorkOrders": 2780,
+      "ActiveDays": 30
+    },
+    {
+      "Year": 2024,
+      "Month": 10,
+      "WorkOrders": 2966,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2024,
+      "Month": 11,
+      "WorkOrders": 3247,
+      "ActiveDays": 30
+    },
+    {
+      "Year": 2024,
+      "Month": 12,
+      "WorkOrders": 3014,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2025,
+      "Month": 1,
+      "WorkOrders": 3242,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2025,
+      "Month": 2,
+      "WorkOrders": 2739,
+      "ActiveDays": 28
+    },
+    {
+      "Year": 2025,
+      "Month": 3,
+      "WorkOrders": 3246,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2025,
+      "Month": 4,
+      "WorkOrders": 3252,
+      "ActiveDays": 30
+    },
+    {
+      "Year": 2025,
+      "Month": 5,
+      "WorkOrders": 3432,
+      "ActiveDays": 31
+    },
+    {
+      "Year": 2025,
+      "Month": 6,
+      "WorkOrders": 89,
+      "ActiveDays": 1
+    }
+  ],
+  [
+    {
+      "ComponentID": 317,
+      "Name": "LL Crankarm",
+      "FirstDate": "2024-06-01T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 364,
+      "ActiveWeeks": 53,
+      "ActiveMonths": 13,
+      "TotalRequirement": 29152.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 318,
+      "Name": "ML Crankarm",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 913,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 124462.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 319,
+      "Name": "HL Crankarm",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 704,
+      "ActiveWeeks": 106,
+      "ActiveMonths": 26,
+      "TotalRequirement": 29136.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 325,
+      "Name": "Decal 1",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 234734.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 326,
+      "Name": "Decal 2",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 117367.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 332,
+      "Name": "Freewheel",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 91375.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 351,
+      "Name": "Front Derailleur Cage",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 91081.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 352,
+      "Name": "Front Derailleur Linkage",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 91081.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 355,
+      "Name": "Guide Pulley",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 90621.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 477,
+      "Name": "Metal Bar 1",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 94218.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 478,
+      "Name": "Metal Bar 2",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 117367.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 482,
+      "Name": "Metal Sheet 2",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 541805.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 483,
+      "Name": "Metal Sheet 3",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 117367.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 484,
+      "Name": "Metal Sheet 7",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 469468.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 485,
+      "Name": "Metal Sheet 4",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 117367.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 486,
+      "Name": "Metal Sheet 5",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 588737.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 487,
+      "Name": "Metal Sheet 6",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 212219.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 507,
+      "Name": "LL Mountain Rim",
+      "FirstDate": "2023-06-02T00:00:00",
+      "LastDate": "2025-05-31T00:00:00",
+      "ActiveDays": 338,
+      "ActiveWeeks": 65,
+      "ActiveMonths": 23,
+      "TotalRequirement": 12613.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 508,
+      "Name": "ML Mountain Rim",
+      "FirstDate": "2023-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 698,
+      "ActiveWeeks": 105,
+      "ActiveMonths": 25,
+      "TotalRequirement": 36203.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 509,
+      "Name": "HL Mountain Rim",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2024-05-02T00:00:00",
+      "ActiveDays": 240,
+      "ActiveWeeks": 64,
+      "ActiveMonths": 23,
+      "TotalRequirement": 10974.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 510,
+      "Name": "LL Road Rim",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 815,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 44970.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 511,
+      "Name": "ML Road Rim",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 602,
+      "ActiveWeeks": 117,
+      "ActiveMonths": 36,
+      "TotalRequirement": 28408.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 512,
+      "Name": "HL Road Rim",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1013,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 23139.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 513,
+      "Name": "Touring Rim",
+      "FirstDate": "2024-06-01T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 365,
+      "ActiveWeeks": 53,
+      "ActiveMonths": 13,
+      "TotalRequirement": 29502.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 523,
+      "Name": "LL Spindle/Axle",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 824,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 57583.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 524,
+      "Name": "HL Spindle/Axle",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1092,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 128226.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 525,
+      "Name": "LL Shell",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 869,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 98731.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 526,
+      "Name": "HL Shell",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1092,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 178267.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 530,
+      "Name": "Seat Post",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 90268.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 535,
+      "Name": "Tension Pulley",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 90621.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 679,
+      "Name": "Rear Derailleur Cage",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 90621.000000,
+      "UnitCompatible": 1
+    },
+    {
+      "ComponentID": 1,
+      "Name": "Adjustable Race",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 91277.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 2,
+      "Name": "Bearing Ball",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 9118900.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 4,
+      "Name": "Headset Ball Bearings",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 730216.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 320,
+      "Name": "Chainring Bolts",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 274125.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 321,
+      "Name": "Chainring Nut",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 274125.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 322,
+      "Name": "Chainring",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 274125.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 323,
+      "Name": "Crown Race",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 91277.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 356,
+      "Name": "LL Grip Tape",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 825,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 1388840.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 357,
+      "Name": "ML Grip Tape",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 602,
+      "ActiveWeeks": 117,
+      "ActiveMonths": 36,
+      "TotalRequirement": 732720.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 358,
+      "Name": "HL Grip Tape",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1092,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 1647160.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 402,
+      "Name": "Keyed Washer",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 91277.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 459,
+      "Name": "Lock Nut 19",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 91277.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 461,
+      "Name": "Lock Ring",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 911890.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 462,
+      "Name": "Lower Head Race",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 91277.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 490,
+      "Name": "LL Nipple",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 906,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 5461056.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 491,
+      "Name": "HL Nipple",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1015,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 1228068.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 492,
+      "Name": "Paint - Black",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 942,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 331656.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 493,
+      "Name": "Paint - Red",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-05-31T00:00:00",
+      "ActiveDays": 820,
+      "ActiveWeeks": 154,
+      "ActiveMonths": 36,
+      "TotalRequirement": 183704.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 494,
+      "Name": "Paint - Silver",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 763,
+      "ActiveWeeks": 156,
+      "ActiveMonths": 37,
+      "TotalRequirement": 154296.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 495,
+      "Name": "Paint - Blue",
+      "FirstDate": "2024-06-01T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 352,
+      "ActiveWeeks": 53,
+      "ActiveMonths": 13,
+      "TotalRequirement": 81424.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 496,
+      "Name": "Paint - Yellow",
+      "FirstDate": "2023-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 592,
+      "ActiveWeeks": 105,
+      "ActiveMonths": 25,
+      "TotalRequirement": 187856.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 497,
+      "Name": "Pinch Bolt",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 361072.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 504,
+      "Name": "Cup-Shaped Race",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 1823780.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 505,
+      "Name": "Cone-Shaped Race",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 1823780.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 506,
+      "Name": "Reflector",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 371618.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 527,
+      "Name": "Spokes",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 6689124.000000,
+      "UnitCompatible": 0
+    },
+    {
+      "ComponentID": 528,
+      "Name": "Seat Lug",
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093,
+      "ActiveWeeks": 157,
+      "ActiveMonths": 37,
+      "TotalRequirement": 90268.000000,
+      "UnitCompatible": 0
+    }
+  ],
+  [
+    {
+      "NullOrInvalidWorkOrders": 0
+    }
+  ],
+  [
+    {
+      "InvalidBOMQty": 0
+    }
+  ],
+  [
+    {
+      "WTransactionsMatchingOutput": 72591,
+      "SameProductAndStockedQty": 71862
+    }
+  ],
+  [
+    {
+      "WorkOrderID": 1,
+      "AssemblyID": 722,
+      "ComponentID": 325,
+      "StartDate": "2022-06-02T00:00:00",
+      "OrderQty": 8,
+      "PerAssemblyQty": 2.00,
+      "UnitMeasureCode": "EA ",
+      "Requirement": 16.000000
+    },
+    {
+      "WorkOrderID": 1,
+      "AssemblyID": 722,
+      "ComponentID": 326,
+      "StartDate": "2022-06-02T00:00:00",
+      "OrderQty": 8,
+      "PerAssemblyQty": 1.00,
+      "UnitMeasureCode": "EA ",
+      "Requirement": 8.000000
+    },
+    {
+      "WorkOrderID": 2,
+      "AssemblyID": 725,
+      "ComponentID": 325,
+      "StartDate": "2022-06-02T00:00:00",
+      "OrderQty": 15,
+      "PerAssemblyQty": 2.00,
+      "UnitMeasureCode": "EA ",
+      "Requirement": 30.000000
+    },
+    {
+      "WorkOrderID": 2,
+      "AssemblyID": 725,
+      "ComponentID": 326,
+      "StartDate": "2022-06-02T00:00:00",
+      "OrderQty": 15,
+      "PerAssemblyQty": 1.00,
+      "UnitMeasureCode": "EA ",
+      "Requirement": 15.000000
+    },
+    {
+      "WorkOrderID": 3,
+      "AssemblyID": 726,
+      "ComponentID": 325,
+      "StartDate": "2022-06-02T00:00:00",
+      "OrderQty": 9,
+      "PerAssemblyQty": 2.00,
+      "UnitMeasureCode": "EA ",
+      "Requirement": 18.000000
+    }
+  ]
+]

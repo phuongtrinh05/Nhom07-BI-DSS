@@ -1,0 +1,633 @@
+[
+  [
+    {
+      "PurchasedMaterials": 182
+    }
+  ],
+  [
+    {
+      "JoinedRows": 143724,
+      "CoveredMaterials": 58,
+      "MinDate": "2022-06-02T00:00:00",
+      "MaxDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    }
+  ],
+  [
+    {
+      "DuplicateWOComponentGroups": 0
+    }
+  ],
+  [
+    {
+      "BOMUnit": "EA ",
+      "PurchaseUnit": "CAN",
+      "Materials": 4,
+      "JoinedRows": 4
+    },
+    {
+      "BOMUnit": "EA ",
+      "PurchaseUnit": "CS ",
+      "Materials": 6,
+      "JoinedRows": 6
+    },
+    {
+      "BOMUnit": "EA ",
+      "PurchaseUnit": "CTN",
+      "Materials": 5,
+      "JoinedRows": 5
+    },
+    {
+      "BOMUnit": "EA ",
+      "PurchaseUnit": "DZ ",
+      "Materials": 4,
+      "JoinedRows": 4
+    },
+    {
+      "BOMUnit": "EA ",
+      "PurchaseUnit": "EA ",
+      "Materials": 31,
+      "JoinedRows": 31
+    },
+    {
+      "BOMUnit": "OZ ",
+      "PurchaseUnit": "GAL",
+      "Materials": 5,
+      "JoinedRows": 5
+    },
+    {
+      "BOMUnit": "IN ",
+      "PurchaseUnit": "PAK",
+      "Materials": 3,
+      "JoinedRows": 3
+    }
+  ],
+  [
+    {
+      "UnitCompatibleMaterials": 31
+    }
+  ],
+  [
+    {
+      "NoWorkOrderDate": "2022-07-18T00:00:00"
+    },
+    {
+      "NoWorkOrderDate": "2022-08-13T00:00:00"
+    },
+    {
+      "NoWorkOrderDate": "2022-09-25T00:00:00"
+    }
+  ],
+  [
+    {
+      "ComponentID": 317,
+      "Name": "LL Crankarm",
+      "ActiveFullMonths": 12,
+      "NoRowFullMonths": 23,
+      "FirstDate": "2024-06-01T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 318,
+      "Name": "ML Crankarm",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 319,
+      "Name": "HL Crankarm",
+      "ActiveFullMonths": 24,
+      "NoRowFullMonths": 11,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 325,
+      "Name": "Decal 1",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 326,
+      "Name": "Decal 2",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 332,
+      "Name": "Freewheel",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 351,
+      "Name": "Front Derailleur Cage",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 352,
+      "Name": "Front Derailleur Linkage",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 355,
+      "Name": "Guide Pulley",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 477,
+      "Name": "Metal Bar 1",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 478,
+      "Name": "Metal Bar 2",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 482,
+      "Name": "Metal Sheet 2",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 483,
+      "Name": "Metal Sheet 3",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 484,
+      "Name": "Metal Sheet 7",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 485,
+      "Name": "Metal Sheet 4",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 486,
+      "Name": "Metal Sheet 5",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 487,
+      "Name": "Metal Sheet 6",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 507,
+      "Name": "LL Mountain Rim",
+      "ActiveFullMonths": 23,
+      "NoRowFullMonths": 12,
+      "FirstDate": "2023-06-02T00:00:00",
+      "LastDate": "2025-05-31T00:00:00"
+    },
+    {
+      "ComponentID": 508,
+      "Name": "ML Mountain Rim",
+      "ActiveFullMonths": 24,
+      "NoRowFullMonths": 11,
+      "FirstDate": "2023-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 509,
+      "Name": "HL Mountain Rim",
+      "ActiveFullMonths": 22,
+      "NoRowFullMonths": 13,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2024-05-02T00:00:00"
+    },
+    {
+      "ComponentID": 510,
+      "Name": "LL Road Rim",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 511,
+      "Name": "ML Road Rim",
+      "ActiveFullMonths": 34,
+      "NoRowFullMonths": 1,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 512,
+      "Name": "HL Road Rim",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 513,
+      "Name": "Touring Rim",
+      "ActiveFullMonths": 12,
+      "NoRowFullMonths": 23,
+      "FirstDate": "2024-06-01T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 523,
+      "Name": "LL Spindle/Axle",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 524,
+      "Name": "HL Spindle/Axle",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 525,
+      "Name": "LL Shell",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 526,
+      "Name": "HL Shell",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 530,
+      "Name": "Seat Post",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 535,
+      "Name": "Tension Pulley",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    },
+    {
+      "ComponentID": 679,
+      "Name": "Rear Derailleur Cage",
+      "ActiveFullMonths": 35,
+      "NoRowFullMonths": 0,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00"
+    }
+  ],
+  [
+    {
+      "Yr": 2022,
+      "Mo": 6
+    },
+    {
+      "Yr": 2022,
+      "Mo": 7
+    },
+    {
+      "Yr": 2022,
+      "Mo": 8
+    },
+    {
+      "Yr": 2022,
+      "Mo": 9
+    },
+    {
+      "Yr": 2022,
+      "Mo": 10
+    },
+    {
+      "Yr": 2022,
+      "Mo": 11
+    },
+    {
+      "Yr": 2022,
+      "Mo": 12
+    },
+    {
+      "Yr": 2023,
+      "Mo": 1
+    },
+    {
+      "Yr": 2023,
+      "Mo": 2
+    },
+    {
+      "Yr": 2023,
+      "Mo": 3
+    },
+    {
+      "Yr": 2023,
+      "Mo": 4
+    },
+    {
+      "Yr": 2023,
+      "Mo": 5
+    },
+    {
+      "Yr": 2023,
+      "Mo": 6
+    },
+    {
+      "Yr": 2024,
+      "Mo": 6
+    },
+    {
+      "Yr": 2024,
+      "Mo": 7
+    },
+    {
+      "Yr": 2024,
+      "Mo": 8
+    },
+    {
+      "Yr": 2024,
+      "Mo": 9
+    },
+    {
+      "Yr": 2024,
+      "Mo": 10
+    },
+    {
+      "Yr": 2024,
+      "Mo": 11
+    },
+    {
+      "Yr": 2024,
+      "Mo": 12
+    },
+    {
+      "Yr": 2025,
+      "Mo": 1
+    },
+    {
+      "Yr": 2025,
+      "Mo": 2
+    },
+    {
+      "Yr": 2025,
+      "Mo": 3
+    },
+    {
+      "Yr": 2025,
+      "Mo": 4
+    },
+    {
+      "Yr": 2025,
+      "Mo": 5
+    },
+    {
+      "Yr": 2025,
+      "Mo": 6
+    }
+  ],
+  [
+    {
+      "MinDate": "2022-06-02T00:00:00",
+      "MaxDate": "2025-06-01T00:00:00",
+      "CalendarDays": 1096,
+      "CalendarWeeks": 157
+    }
+  ],
+  [
+    {
+      "ComponentID": 355,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 524,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1092
+    },
+    {
+      "ComponentID": 487,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 679,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 507,
+      "FirstDate": "2023-06-02T00:00:00",
+      "LastDate": "2025-05-31T00:00:00",
+      "ActiveDays": 338
+    },
+    {
+      "ComponentID": 530,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 513,
+      "FirstDate": "2024-06-01T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 365
+    },
+    {
+      "ComponentID": 318,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 913
+    },
+    {
+      "ComponentID": 510,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 815
+    },
+    {
+      "ComponentID": 484,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 319,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 704
+    },
+    {
+      "ComponentID": 485,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 525,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 869
+    },
+    {
+      "ComponentID": 508,
+      "FirstDate": "2023-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 698
+    },
+    {
+      "ComponentID": 482,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 317,
+      "FirstDate": "2024-06-01T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 364
+    },
+    {
+      "ComponentID": 511,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 602
+    },
+    {
+      "ComponentID": 483,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 523,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 824
+    },
+    {
+      "ComponentID": 477,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 325,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 351,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 478,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 526,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1092
+    },
+    {
+      "ComponentID": 332,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 326,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 509,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2024-05-02T00:00:00",
+      "ActiveDays": 240
+    },
+    {
+      "ComponentID": 352,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 512,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1013
+    },
+    {
+      "ComponentID": 486,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    },
+    {
+      "ComponentID": 535,
+      "FirstDate": "2022-06-02T00:00:00",
+      "LastDate": "2025-06-01T00:00:00",
+      "ActiveDays": 1093
+    }
+  ]
+]
