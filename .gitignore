@@ -3,3 +3,4 @@ check_incoming.sql
 testchoAT.sql
 
 __pycache__/
+logs/

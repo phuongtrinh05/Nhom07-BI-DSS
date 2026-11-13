@@ -109,3 +109,23 @@ Final forecasting results are loaded into:
 - Fact_DemandForecast
 The official forecast contains:
 34 materials × 6 months = 204 forecast records
+## Automation (G24)
+
+SQL Server runs in the Docker container `sql2025` (Linux), where SQL Server Agent is not enabled and cannot run the Windows Python environment, so the pipeline is scheduled with **Windows Task Scheduler** instead.
+
+Daily run (06:30), before the Power BI Service scheduled refresh through the personal gateway (07:00):
+
+1. start the `sql2025` container if it is stopped
+2. execute notebooks G06 → G09 → G10 → G11 headless (`scripts/run_notebooks.py`, about 1 minute)
+3. load the official forecast, evaluation and Naive benchmark into MaterialDW (`notebooks/load_g11_to_dw.py`)
+
+Each run writes `logs/pipeline_yyyyMMdd_HHmm.log`; executed notebook copies go to `logs/executed/`.
+
+One-time setup (PowerShell):
+
+```powershell
+[Environment]::SetEnvironmentVariable('MATERIALDW_SA_PASSWORD', '<sa password>', 'User')
+pip install nbclient nbformat
+powershell -ExecutionPolicy Bypass -File scripts\run_pipeline.ps1      # test run
+powershell -ExecutionPolicy Bypass -File scripts\register_task.ps1     # schedule daily 06:30
+```
