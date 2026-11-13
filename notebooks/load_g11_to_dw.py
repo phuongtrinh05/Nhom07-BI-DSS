@@ -41,6 +41,7 @@ if len(naive) != len(evals) or (naive["ActualQty"] - naive["ActualQty_sel"]).abs
     raise SystemExit("Naive benchmark khong khop so dong/ActualQty voi evals - dung lai, chua ghi DW")
 run_time = datetime.now().replace(microsecond=0)
 
+failed = False
 conn = pyodbc.connect(CONN_STR, autocommit=False)
 cur = conn.cursor()
 try:
@@ -112,5 +113,8 @@ try:
 except Exception as e:
     conn.rollback()
     print("LOI - da rollback, DW khong thay doi:\n", e)
+    failed = True
 finally:
     conn.close()
+if failed:
+    raise SystemExit(1)  # non-zero exit so a scheduler marks the run as failed
